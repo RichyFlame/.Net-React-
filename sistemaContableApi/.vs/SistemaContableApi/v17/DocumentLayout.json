@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Richy_Flame\\Desktop\\Nueva carpeta (2)\\. net \u002B react\\sistemaContableApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C264283A-654D-4068-B0CA-5AC1CCBD2EBB}|SistemaContableApi.csproj|c:\\users\\richy_flame\\desktop\\nueva carpeta (2)\\. net \u002B react\\sistemacontableapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C264283A-654D-4068-B0CA-5AC1CCBD2EBB}|SistemaContableApi.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C264283A-654D-4068-B0CA-5AC1CCBD2EBB}|SistemaContableApi.csproj|c:\\users\\richy_flame\\desktop\\nueva carpeta (2)\\. net \u002B react\\sistemacontableapi\\conexion\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C264283A-654D-4068-B0CA-5AC1CCBD2EBB}|SistemaContableApi.csproj|solutionrelative:conexion\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4B9C-DC5E-41F6-BA78-92F642896268}|..\\..\\SistemaContable\\ConexionBdd\\OracleBdd.csproj|c:\\users\\richy_flame\\desktop\\nueva carpeta (2)\\sistemacontable\\conexionbdd\\conexionbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C264283A-654D-4068-B0CA-5AC1CCBD2EBB}|SistemaContableApi.csproj|c:\\users\\richy_flame\\desktop\\nueva carpeta (2)\\. net \u002B react\\sistemacontableapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C264283A-654D-4068-B0CA-5AC1CCBD2EBB}|SistemaContableApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConexionBdd.cs",
+              "DocumentMoniker": "C:\\Users\\Richy_Flame\\Desktop\\Nueva carpeta (2)\\SistemaContable\\ConexionBdd\\ConexionBdd.cs",
+              "RelativeDocumentMoniker": "..\\..\\SistemaContable\\ConexionBdd\\ConexionBdd.cs",
+              "ToolTip": "C:\\Users\\Richy_Flame\\Desktop\\Nueva carpeta (2)\\SistemaContable\\ConexionBdd\\ConexionBdd.cs",
+              "RelativeToolTip": "..\\..\\SistemaContable\\ConexionBdd\\ConexionBdd.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAUwLYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T03:26:39.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Richy_Flame\\Desktop\\Nueva carpeta (2)\\. net \u002B react\\sistemaContableApi\\Conexion\\BaseDatos.cs",
+              "RelativeDocumentMoniker": "Conexion\\BaseDatos.cs",
+              "ToolTip": "C:\\Users\\Richy_Flame\\Desktop\\Nueva carpeta (2)\\. net \u002B react\\sistemaContableApi\\Conexion\\BaseDatos.cs",
+              "RelativeToolTip": "Conexion\\BaseDatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:22:47.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Richy_Flame\\Desktop\\Nueva carpeta (2)\\. net \u002B react\\sistemaContableApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Richy_Flame\\Desktop\\Nueva carpeta (2)\\. net \u002B react\\sistemaContableApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:38:20.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Richy_Flame\\Desktop\\Nueva carpeta (2)\\. net \u002B react\\sistemaContableApi\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Richy_Flame\\Desktop\\Nueva carpeta (2)\\. net \u002B react\\sistemaContableApi\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAswEsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:52:55.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
